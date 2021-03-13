@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  background-color: rgb(39, 35, 35);
+  color: white;
+}
+hr{
+  background-color: white;
+}
+.useArray{
+  background-color: #ee82ee;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top:10px;
+  margin-left: 25%;
+  margin-right: 25%;
+  word-spacing: 10px;
+  color: black;
+}
+.btn-clear-All{
+  border: 0.5px black solid;
+  color: white;
+  background-color: darkorchid;
+  width: 100px;
+  height: 45px;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 1000ms linear;
+}
+.btn-clear-All:hover{
+  background-color: tomato;
+}
+.btn-remove{
+  background-color: rgb(216, 32, 0);
+  border-radius: 5px;
+  margin-left: 10px;
+
+}
